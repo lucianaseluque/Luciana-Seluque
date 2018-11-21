@@ -7,16 +7,13 @@ Inteligência Emocional | Soft Skills | Habilidades Socioemocionais | Engajament
     [
       "Inteligência Emocional",
       "Soft Skills",
-      "Engajamento Stakeholders",
       "Habilidades Socioemocionais",
-        "Gestão das Emoções",
-          "Career Counselor",
     ],
   "location": "São Paulo/SP",
   "photo": null,
   "email": "lucianaseluque@hotmail.com",
   "linkedin": "https://www.linkedin.com/in/luciana-seluque/",
-  "github": "foobarname",
+  "github": null,
   "twitter": "https://twitter.com/LuSeluque",
   "fb": "https://www.facebook.com/controledossentimentosegestaodasemocoes/"
 }
